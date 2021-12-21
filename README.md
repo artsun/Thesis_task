@@ -7,4 +7,4 @@ Manage Company via API
 - Swagger-documentation;
 
 #### Future Developments:
-Could be updated with unit-test files, REST (Postman) tests, Dockerfile, and docker-compouse yaml.
+Could be updated with unit-test files, REST (Postman) tests, Dockerfile, and docker-compose yaml.
